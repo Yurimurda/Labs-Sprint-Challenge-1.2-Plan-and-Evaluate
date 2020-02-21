@@ -29,7 +29,10 @@ Please submit your response to your `Google Drive` folder you created in your du
 Please respond to the following prompts to demonstrate your understanding of these release canvas planning sessions.
 
 - **For data scientists and engineers:** Describe the features in your first release canvas. How do the features in your first release canvas support one another? How will the completion of the first release canvas help drive the technological decisions moving forward?
-- **For UX designers:** Describe how the user research you conducted influenced the features your team will build.
+- **For UX designers:** Describe how the user research you conducted influenced the features your team will build. 
+
+The user wants a more simplistic, mobile friendly app. We have eliminated the idea
+of customer use entirely, the app's functionality will be split between an Administrator and Teams of Employees. Many features previously established such as the calendar will remain, be fixed, and potentially be improved upon. Others like the customer list will be condensed into a search bar to find specific customers instead of a pre-rendered list. 
 
 ### Prompt 2: Breakdown Entry
 
@@ -37,6 +40,10 @@ Describe the breakdown process of your first release canvas. Please add a link t
 
 - **For non-UX students:** Summarize what you included in your first release canvas and why the features in that release canvas create a complete feature set.
 - How will you test those features to know that they actually solve the problem?
+
+My end of the release includes a Search function to replace the customer list. 
+This feature is per one of the requests of our stakeholder in that It would server more practically for an employee to search by name instead of shuffling through a long list. Testing the functionality is open and shut, Being able to display specific users through input is proof that it works.
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
